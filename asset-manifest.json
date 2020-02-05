@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/persfinder/static/css/main.6980d021.chunk.css",
+    "main.js": "/persfinder/static/js/main.1f3fba9c.chunk.js",
+    "main.js.map": "/persfinder/static/js/main.1f3fba9c.chunk.js.map",
+    "runtime-main.js": "/persfinder/static/js/runtime-main.13ca34ff.js",
+    "runtime-main.js.map": "/persfinder/static/js/runtime-main.13ca34ff.js.map",
+    "static/js/2.11b9fd8d.chunk.js": "/persfinder/static/js/2.11b9fd8d.chunk.js",
+    "static/js/2.11b9fd8d.chunk.js.map": "/persfinder/static/js/2.11b9fd8d.chunk.js.map",
+    "index.html": "/persfinder/index.html",
+    "precache-manifest.d49b357625d7568ff7d97dc3cc36217c.js": "/persfinder/precache-manifest.d49b357625d7568ff7d97dc3cc36217c.js",
+    "service-worker.js": "/persfinder/service-worker.js",
+    "static/css/main.6980d021.chunk.css.map": "/persfinder/static/css/main.6980d021.chunk.css.map",
+    "static/js/2.11b9fd8d.chunk.js.LICENSE.txt": "/persfinder/static/js/2.11b9fd8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13ca34ff.js",
+    "static/js/2.11b9fd8d.chunk.js",
+    "static/css/main.6980d021.chunk.css",
+    "static/js/main.1f3fba9c.chunk.js"
+  ]
+}
